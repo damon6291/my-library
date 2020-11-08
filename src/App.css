@@ -49,3 +49,8 @@ html {
   height: 300px;
   background: linear-gradient(to left, red, blue);
 }
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}

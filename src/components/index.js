@@ -21,3 +21,4 @@ export { default as Telephone } from './react/telephone/Telephone';
 export { default as Redux } from './react/redux/Redux';
 export { default as jQuery } from './jQuery/jQuery/JQuery';
 export { default as Promise } from './react/promise/PromiseExample';
+export { default as MySqlAPI } from './java/mySqlApi/MySqlApi';

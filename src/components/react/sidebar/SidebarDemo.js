@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import ReactData from '../../../data/ReactData.json';
 import JqueryData from '../../../data/JqueryData.json';
+import JavaData from '../../../data/JavaData.json';
 
 const SidebarDemo = ({ handleClick }) => {
   const [clickedName, setClickedName] = useState('');
@@ -63,6 +64,7 @@ const SidebarDemo = ({ handleClick }) => {
 
       {dataView('React', ReactData)}
       {dataView('JQuery', JqueryData)}
+      {dataView('Java', JavaData)}
     </ul>
   );
 };
