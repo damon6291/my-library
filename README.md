@@ -1,3 +1,6 @@
+This is a project to easily view components I created previously
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
